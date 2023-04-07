@@ -16,6 +16,7 @@ public class Table {
 		Table.put(13,null);
 		Table.put(44,"Nampur");
 		Table.put(24,"delhi");
+		Table.put(245,"nagpur");//manger do this
 		
 		for (Map.Entry<Integer,String> f: Table.entrySet()) {
 			
